@@ -1,4 +1,4 @@
 # Demo
 This is my first github repo.
 <br>
-Author - Vishwa
+Author - Vishwa  (Web developer)
